@@ -10,8 +10,8 @@ div.song {
     width: 400px;
     box-shadow: 2px 2px 5px #222;
     background: #ffffff;
-    border-radius: 5px;
-    text-align: center;
+    border-radius:5px;
+    text-align:center;
 }
 
 div.song pre {

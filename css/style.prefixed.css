@@ -1,0 +1,21 @@
+body {
+    font-family: Calibri, sans-serif;
+    margin: 0;
+    background: #0276c4;
+}
+
+div.song {
+    padding: 20px;
+    margin: 20px auto;
+    width: 400px;
+    box-shadow: 2px 2px 5px #222;
+    background: #ffffff;
+    border-radius:5px;
+    text-align:center;
+}
+
+div.song pre {
+    text-align: left;
+    font-family: Calibri, sans-serif;
+    font-weight: 500;
+}
